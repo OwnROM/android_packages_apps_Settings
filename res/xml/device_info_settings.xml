@@ -27,7 +27,7 @@
         <Preference android:key="mod_version"
                 style="?android:preferenceInformationStyle"
                 android:title="@string/own_mod_version"
-                android:summary="@string/mod_version_default"
+                android:summary="@string/mod_version_default" />
 
         <!-- Device status - launches activity -->
         <Preference android:key="status_info"
